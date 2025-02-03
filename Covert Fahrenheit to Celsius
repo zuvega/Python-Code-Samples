@@ -1,0 +1,10 @@
+#----------------------------#
+#Author: Zulema Vega
+#Date: 2/2/2025
+#Program coverts Fahrenheit to Celsius 
+#-----------------------------#
+fahrenheit = float(input("Enter temperature in Fahrenheit: "))
+Enter temperature in Fahrenheit: 50
+celsius = (fahrenheit - 32) * 5/9
+print(fahrenheit, "degrees Fahrenheit is", celsius, "degrees Celsius")
+50.0 degrees Fahrenheit is 10.0 degrees Celsius
