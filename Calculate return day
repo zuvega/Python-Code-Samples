@@ -1,0 +1,12 @@
+#----------------------------#
+#Author: Zulema Vega
+#Date: 2/2/2025
+#Program will calculate your return day
+#-----------------------------#
+start_day = int(input("Enter starting day (0-6): "))
+Enter starting day (0-6): 3
+stay_length = int(input("Enter length of stay: "))
+Enter length of stay: 10
+return_day = (start_day + stay_length) % 7
+print("You will return on day", return_day)
+You will return on day 6
