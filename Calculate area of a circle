@@ -1,0 +1,10 @@
+#----------------------------#
+#Author: Zulema Vega
+#Date: 2/2/2025
+#Program calculates the area of a circle
+#-----------------------------#
+radius = float(input("Enter the radious of the circle: "))
+Enter the radious of the circle: 3.14
+area = 3.14 * radius**2
+print("The area of the circle is: ", area)
+The area of the circle is:  30.959144000000002
