@@ -1,0 +1,11 @@
+#----------------------------#
+#Author: Zulema Vega
+#Date: 2/2/2025
+#Program that greets user by name
+#-----------------------------#
+name = input("What is your name? ")
+      
+What is your name? Zu
+print("Hello,", name, "!")
+      
+Hello, Zu !
