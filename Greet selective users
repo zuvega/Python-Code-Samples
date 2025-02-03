@@ -1,0 +1,15 @@
+#----------------------------#
+#Author: Zulema Vega
+#Date: 2/2/2025
+#Program greets selective users
+#-----------------------------#
+user_name = input("What is your name? ")
+      
+What is your name? Zu
+if user_name == "Zu" or user_name == "Nathan":
+      print("Hello,", user_name, "!")
+else:
+    print("Nice to meet you!")
+
+    
+Hello, Zu !
