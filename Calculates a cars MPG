@@ -1,0 +1,12 @@
+#----------------------------#
+#Author: Zulema Vega
+#Date: 2/2/2025
+#Program calculates a cars MPG
+#-----------------------------#
+miles_driven = float(input("Enter miles driven: "))
+Enter miles driven: 119
+gallons_used = float(input("Enter gallons used: "))
+Enter gallons used: 5
+mpg = miles_driven / gallons_used
+print("Your MPG is:", mpg)
+Your MPG is: 23.8
